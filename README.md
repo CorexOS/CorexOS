@@ -47,6 +47,11 @@ We welcome contributions from the open-source community! Whether you’re a deve
 - Star and watch the project on GitHub  
 - Join the community (Discord server coming soon)
 
+## Authors
+
+- **Ethan J. Vance** – [ethan-j-vance](https://github.com/ethan-j-vance) – Creator & Visionary
+
+
 ## 📫 Contact
 
 Email: **contact.corexos@proton.me**  
